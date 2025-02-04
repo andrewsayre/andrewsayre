@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I'm Andy
+- Purpose-driven software engineering leader building impactful and innovative products that improve people's lives
+- Passionate about AI/ML, Smart Home, IoT, Fitness Tech, Developer Experience, and Open-Source Software
+- Member of [@home-assistant](https://github.com/home-assistant) and contributor of [HEOS](https://www.home-assistant.io/integrations/heos) and SmartThings integrations
+- _"Things are only impossible until they are not."_ - Jean-Luc Picard 🖖
 
-<!--
-**andrewsayre/andrewsayre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My primary technical expertise
+#### Languages and frameworks
+<img src="https://skillicons.dev/icons?i=py,cs,js,nodejs,ts,css,html,dotnet&theme=dark" alt="Languages and Frameworks: Python, C#, JavaScript, NodeJS, TypeScript, CSS, HTML, .NET" />&nbsp;
+#### Technologies
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,debian,kubernetes,linux,nginx,windows&theme=dark" alt="Technologies: AWS, Azure, Docker, Debian, Kubernetes, Linux, nginx, Windows" />&nbsp;
+#### Tools
+<img src="https://skillicons.dev/icons?i=discord,git,githubactions,postman,vscode&theme=dark" alt="Tools: Discord, Git, GitHub Actions, Postman, VSCode" />&nbsp;
