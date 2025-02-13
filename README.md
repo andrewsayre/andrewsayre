@@ -3,6 +3,7 @@
 - Passionate about AI/ML, Smart Home, IoT, Fitness Tech, Developer Experience, and Open-Source Software
 - Member of [@home-assistant](https://github.com/home-assistant) and contributor of [HEOS](https://www.home-assistant.io/integrations/heos) and SmartThings integrations
 - _"Things are only impossible until they are not."_ - Jean-Luc Picard 🖖
+- [See my website](https://andrewsayre.com) to learn more about me
 
 ### My primary technical expertise
 #### Languages and frameworks
